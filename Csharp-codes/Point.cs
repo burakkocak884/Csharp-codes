@@ -1,3 +1,5 @@
+using System;
+
 namespace Csharp_codes{
 
      public class Point
@@ -16,9 +18,13 @@ namespace Csharp_codes{
             this.X = x;
             this.Y = y;
         }
-        public void Move(Point newLocation){
-            this.X = newLocation.X;
-            this.Y = newLocation.Y;
+        public void Move(Point newLocation)
+        {
+          if(newLocation == null){
+          throw new ArgumentNullException("newLocation");
+          }else{
+            Move(newLocation.X, newLocation.Y);
+          }
         }
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/burakkocak/Development/Csharp-codes/Csharp-codes.csproj": {}
+    "/Users/burakkocak/Development/CSharp/Csharp-codes/Csharp-codes.csproj": {}
   },
   "projects": {
-    "/Users/burakkocak/Development/Csharp-codes/Csharp-codes.csproj": {
+    "/Users/burakkocak/Development/CSharp/Csharp-codes/Csharp-codes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burakkocak/Development/Csharp-codes/Csharp-codes.csproj",
+        "projectUniqueName": "/Users/burakkocak/Development/CSharp/Csharp-codes/Csharp-codes.csproj",
         "projectName": "Csharp-codes",
-        "projectPath": "/Users/burakkocak/Development/Csharp-codes/Csharp-codes.csproj",
+        "projectPath": "/Users/burakkocak/Development/CSharp/Csharp-codes/Csharp-codes.csproj",
         "packagesPath": "/Users/burakkocak/.nuget/packages/",
-        "outputPath": "/Users/burakkocak/Development/Csharp-codes/obj/",
+        "outputPath": "/Users/burakkocak/Development/CSharp/Csharp-codes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/burakkocak/.nuget/NuGet/NuGet.Config"

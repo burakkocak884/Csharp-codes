@@ -9,3 +9,14 @@
 /Users/burakkocak/Development/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.AssemblyInfo.cs
 /Users/burakkocak/Development/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.dll
 /Users/burakkocak/Development/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.pdb
+/Users/burakkocak/Development/CSharp/Csharp-codes/bin/Debug/netcoreapp3.0/Csharp-codes
+/Users/burakkocak/Development/CSharp/Csharp-codes/bin/Debug/netcoreapp3.0/Csharp-codes.deps.json
+/Users/burakkocak/Development/CSharp/Csharp-codes/bin/Debug/netcoreapp3.0/Csharp-codes.runtimeconfig.json
+/Users/burakkocak/Development/CSharp/Csharp-codes/bin/Debug/netcoreapp3.0/Csharp-codes.runtimeconfig.dev.json
+/Users/burakkocak/Development/CSharp/Csharp-codes/bin/Debug/netcoreapp3.0/Csharp-codes.dll
+/Users/burakkocak/Development/CSharp/Csharp-codes/bin/Debug/netcoreapp3.0/Csharp-codes.pdb
+/Users/burakkocak/Development/CSharp/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.csprojAssemblyReference.cache
+/Users/burakkocak/Development/CSharp/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.AssemblyInfoInputs.cache
+/Users/burakkocak/Development/CSharp/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.AssemblyInfo.cs
+/Users/burakkocak/Development/CSharp/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.dll
+/Users/burakkocak/Development/CSharp/Csharp-codes/obj/Debug/netcoreapp3.0/Csharp-codes.pdb

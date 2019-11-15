@@ -8,19 +8,20 @@ namespace Csharp_exercises{
         public List<Order> Orders;
      
    
-    public Customer()
-    {
-        Orders = new List<Order>();
+            public Customer()
+            {
+                Orders = new List<Order>();
 
-    }
-    public  Customer(int id)
-    : this()
-    {
-        this.Id = id;
-    }
-    public Customer(int id , string name){
-        this.Id = id;
-        this.Name = name;
-    }
+            }
+            public  Customer(int id)
+            :this()
+            {
+                this.Id = id;
+            }
+            public Customer(int id , string name)
+            :this(id)
+            {
+                this.Name = name;
+            }
     }
 }
