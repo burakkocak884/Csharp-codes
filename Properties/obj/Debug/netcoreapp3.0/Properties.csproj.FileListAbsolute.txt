@@ -1,0 +1,11 @@
+/Users/burakkocak/Development/CSharp/Properties/obj/Debug/netcoreapp3.0/Properties.csprojAssemblyReference.cache
+/Users/burakkocak/Development/CSharp/Properties/obj/Debug/netcoreapp3.0/Properties.AssemblyInfoInputs.cache
+/Users/burakkocak/Development/CSharp/Properties/obj/Debug/netcoreapp3.0/Properties.AssemblyInfo.cs
+/Users/burakkocak/Development/CSharp/Properties/bin/Debug/netcoreapp3.0/Properties
+/Users/burakkocak/Development/CSharp/Properties/bin/Debug/netcoreapp3.0/Properties.deps.json
+/Users/burakkocak/Development/CSharp/Properties/bin/Debug/netcoreapp3.0/Properties.runtimeconfig.json
+/Users/burakkocak/Development/CSharp/Properties/bin/Debug/netcoreapp3.0/Properties.runtimeconfig.dev.json
+/Users/burakkocak/Development/CSharp/Properties/bin/Debug/netcoreapp3.0/Properties.dll
+/Users/burakkocak/Development/CSharp/Properties/bin/Debug/netcoreapp3.0/Properties.pdb
+/Users/burakkocak/Development/CSharp/Properties/obj/Debug/netcoreapp3.0/Properties.dll
+/Users/burakkocak/Development/CSharp/Properties/obj/Debug/netcoreapp3.0/Properties.pdb
