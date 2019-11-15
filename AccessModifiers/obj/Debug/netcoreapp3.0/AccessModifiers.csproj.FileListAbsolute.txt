@@ -1,0 +1,11 @@
+/Users/burakkocak/Development/CSharp/AccessModifiers/bin/Debug/netcoreapp3.0/AccessModifiers
+/Users/burakkocak/Development/CSharp/AccessModifiers/bin/Debug/netcoreapp3.0/AccessModifiers.deps.json
+/Users/burakkocak/Development/CSharp/AccessModifiers/bin/Debug/netcoreapp3.0/AccessModifiers.runtimeconfig.json
+/Users/burakkocak/Development/CSharp/AccessModifiers/bin/Debug/netcoreapp3.0/AccessModifiers.runtimeconfig.dev.json
+/Users/burakkocak/Development/CSharp/AccessModifiers/bin/Debug/netcoreapp3.0/AccessModifiers.dll
+/Users/burakkocak/Development/CSharp/AccessModifiers/bin/Debug/netcoreapp3.0/AccessModifiers.pdb
+/Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.csprojAssemblyReference.cache
+/Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.AssemblyInfo.cs
+/Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.dll
+/Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.pdb
