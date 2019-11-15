@@ -1,0 +1,11 @@
+/Users/burakkocak/Development/CSharp/Indexers/obj/Debug/netcoreapp3.0/Indexers.csprojAssemblyReference.cache
+/Users/burakkocak/Development/CSharp/Indexers/obj/Debug/netcoreapp3.0/Indexers.AssemblyInfoInputs.cache
+/Users/burakkocak/Development/CSharp/Indexers/obj/Debug/netcoreapp3.0/Indexers.AssemblyInfo.cs
+/Users/burakkocak/Development/CSharp/Indexers/bin/Debug/netcoreapp3.0/Indexers
+/Users/burakkocak/Development/CSharp/Indexers/bin/Debug/netcoreapp3.0/Indexers.deps.json
+/Users/burakkocak/Development/CSharp/Indexers/bin/Debug/netcoreapp3.0/Indexers.runtimeconfig.json
+/Users/burakkocak/Development/CSharp/Indexers/bin/Debug/netcoreapp3.0/Indexers.runtimeconfig.dev.json
+/Users/burakkocak/Development/CSharp/Indexers/bin/Debug/netcoreapp3.0/Indexers.dll
+/Users/burakkocak/Development/CSharp/Indexers/bin/Debug/netcoreapp3.0/Indexers.pdb
+/Users/burakkocak/Development/CSharp/Indexers/obj/Debug/netcoreapp3.0/Indexers.dll
+/Users/burakkocak/Development/CSharp/Indexers/obj/Debug/netcoreapp3.0/Indexers.pdb
