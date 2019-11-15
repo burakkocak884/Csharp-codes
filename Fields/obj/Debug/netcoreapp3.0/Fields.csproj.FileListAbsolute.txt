@@ -1,0 +1,11 @@
+/Users/burakkocak/Development/CSharp/Fields/obj/Debug/netcoreapp3.0/Fields.csprojAssemblyReference.cache
+/Users/burakkocak/Development/CSharp/Fields/obj/Debug/netcoreapp3.0/Fields.AssemblyInfoInputs.cache
+/Users/burakkocak/Development/CSharp/Fields/obj/Debug/netcoreapp3.0/Fields.AssemblyInfo.cs
+/Users/burakkocak/Development/CSharp/Fields/bin/Debug/netcoreapp3.0/Fields
+/Users/burakkocak/Development/CSharp/Fields/bin/Debug/netcoreapp3.0/Fields.deps.json
+/Users/burakkocak/Development/CSharp/Fields/bin/Debug/netcoreapp3.0/Fields.runtimeconfig.json
+/Users/burakkocak/Development/CSharp/Fields/bin/Debug/netcoreapp3.0/Fields.runtimeconfig.dev.json
+/Users/burakkocak/Development/CSharp/Fields/bin/Debug/netcoreapp3.0/Fields.dll
+/Users/burakkocak/Development/CSharp/Fields/bin/Debug/netcoreapp3.0/Fields.pdb
+/Users/burakkocak/Development/CSharp/Fields/obj/Debug/netcoreapp3.0/Fields.dll
+/Users/burakkocak/Development/CSharp/Fields/obj/Debug/netcoreapp3.0/Fields.pdb
