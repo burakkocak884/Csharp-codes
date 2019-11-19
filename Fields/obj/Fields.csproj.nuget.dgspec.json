@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/burakkocak/Development/CSharp/Fields/Fields.csproj": {}
+    "C:\\Users\\Burak\\Desktop\\Coding\\csharp-exercies\\Csharp-codes\\Fields\\Fields.csproj": {}
   },
   "projects": {
-    "/Users/burakkocak/Development/CSharp/Fields/Fields.csproj": {
+    "C:\\Users\\Burak\\Desktop\\Coding\\csharp-exercies\\Csharp-codes\\Fields\\Fields.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burakkocak/Development/CSharp/Fields/Fields.csproj",
+        "projectUniqueName": "C:\\Users\\Burak\\Desktop\\Coding\\csharp-exercies\\Csharp-codes\\Fields\\Fields.csproj",
         "projectName": "Fields",
-        "projectPath": "/Users/burakkocak/Development/CSharp/Fields/Fields.csproj",
-        "packagesPath": "/Users/burakkocak/.nuget/packages/",
-        "outputPath": "/Users/burakkocak/Development/CSharp/Fields/obj/",
+        "projectPath": "C:\\Users\\Burak\\Desktop\\Coding\\csharp-exercies\\Csharp-codes\\Fields\\Fields.csproj",
+        "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Burak\\Desktop\\Coding\\csharp-exercies\\Csharp-codes\\Fields\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/burakkocak/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

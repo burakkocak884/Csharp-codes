@@ -9,3 +9,14 @@
 /Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.AssemblyInfo.cs
 /Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.dll
 /Users/burakkocak/Development/CSharp/AccessModifiers/obj/Debug/netcoreapp3.0/AccessModifiers.pdb
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.exe
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.deps.json
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.runtimeconfig.json
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.dll
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.pdb
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.dll
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.pdb
