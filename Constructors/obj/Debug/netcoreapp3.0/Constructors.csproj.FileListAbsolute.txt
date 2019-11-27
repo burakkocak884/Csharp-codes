@@ -1,0 +1,11 @@
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\obj\Debug\netcoreapp3.0\Constructors.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\obj\Debug\netcoreapp3.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\obj\Debug\netcoreapp3.0\Constructors.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\bin\Debug\netcoreapp3.0\Constructors.exe
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\bin\Debug\netcoreapp3.0\Constructors.deps.json
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\bin\Debug\netcoreapp3.0\Constructors.runtimeconfig.json
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\bin\Debug\netcoreapp3.0\Constructors.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\bin\Debug\netcoreapp3.0\Constructors.dll
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\bin\Debug\netcoreapp3.0\Constructors.pdb
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\obj\Debug\netcoreapp3.0\Constructors.dll
+C:\Users\Burak\Desktop\Coding\csharp-exercies\Csharp-codes\Constructors\obj\Debug\netcoreapp3.0\Constructors.pdb
